@@ -104,7 +104,3 @@ Big-O gösterimi O(n^2)dir.
 (Sonraki sayımız 9 ve 15 ile yer değiştirir)
 
 [2,3,4,5,6,7,8,9,15]
-
-
-
-
