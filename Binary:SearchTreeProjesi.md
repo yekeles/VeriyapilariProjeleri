@@ -3,7 +3,7 @@
 
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
-#Cevap 1
+# Cevap 1
 - Root `6`'dır. Root'un sağında `9,7,8` bulunur. Solunda `3,5,1,4,2,0` bulunur.
 ---
 - `9`'un solunda `7,8` bulunur. 
