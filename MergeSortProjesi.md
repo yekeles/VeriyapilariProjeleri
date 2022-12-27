@@ -13,10 +13,11 @@ Big-O gösterimini yazınız.
 ## Cevap 1
 
 Örneğin 11 sayısını ilk seçim olarak kabul edelim
-         11
-        /  \
-       /    \
-     /\       /\
+
+* 11
+*        /  \
+*      /     \
+*     /\       /\
  [16] [21]   [8]  [12 22]
    /               /   \     
  [16]            [12] [22]
