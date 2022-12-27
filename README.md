@@ -1,13 +1,13 @@
 # Selection Sort Projesi
 ## Proje 1
-* Soru 1
+*** Soru 1 :
 [22,27,16,2,18,6] -> Insertion Sort
 
 Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
-* Soru 2
+*** Soru 2 :
 Big-O gösterimini yazınız.
-* Soru 3
+*** Soru 3 :
 Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
 
 Average case: Aradığımız sayının ortada olması
